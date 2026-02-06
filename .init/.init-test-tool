@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/dashboard-and-task-management-system-52951-52967/task_management_frontend"
+}
